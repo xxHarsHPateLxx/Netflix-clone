@@ -9,7 +9,7 @@ body{
     background-color: black;
 }
 .main{
-    background-image: url(bgimg.jpg);
+    background-image: url(img/bgimg.jpg);
     background-position: center bottom;
     background-repeat: no-repeat;
     background-size: max(1200px, 100vw);
